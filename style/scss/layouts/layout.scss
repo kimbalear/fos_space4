@@ -8,6 +8,10 @@
 #page.drawers {
     .main-inner {
         background-color: $body-bg;
+        padding: 0;
+        .header-maxwidth {
+            max-width: 100%;
+        }
     }
 }
 
